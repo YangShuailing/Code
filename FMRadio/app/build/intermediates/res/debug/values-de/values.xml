@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/GitHub/LeetCode/FMRadio/app/src/main/res/values-de/strings.xml -->
+    <eat-comment/>
+    <string name="add_to_favorite">Zu Favoriten hinzufügen</string>
+    <string name="already_exists">Existiert bereits</string>
+    <string name="app_name">FM-Übertragung</string>
+    <string name="btn_cancel">Abbrechen</string>
+    <string name="btn_discard_recording">Verwerfen</string>
+    <string name="btn_no">Nein</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_overwrite_recording">Überschreiben</string>
+    <string name="btn_save_recording">Speichern</string>
+    <string name="btn_yes">Ja</string>
+    <string name="contmenu_item_delete">Löschen</string>
+    <string name="contmenu_item_edit">Bearbeiten</string>
+    <string name="contmenu_title">Vorgänge</string>
+    <string name="default_station_name">Neuer Kanal</string>
+    <string name="dlg_addedit_station_freq">Frequenz:</string>
+    <string name="dlg_addedit_station_name">Name:</string>
+    <string name="dlg_addedit_title_edit">Kanal bearbeiten</string>
+    <string name="dlg_delete_confirm_text">Möchten Sie diesen Sender wirklich löschen?</string>
+    <string name="dlg_delete_confirm_title">Löschung des Senders bestätigen</string>
+    <string name="dlg_noantenna_text">Der Kopfhörer wird als Antenne des UKW-Radios genutzt. Ohne Kopfhörer fortfahren?</string>
+    <string name="dlg_noantenna_title">Kopfhörer anschließen</string>
+    <string name="dlg_progress_text">Suche nach Sendern, bitte warten…</string>
+    <string name="dlg_progress_title">Suche...</string>
+    <string name="dlg_rds_settings_alternative_frequency">Alternative Frequenz</string>
+    <string name="dlg_rds_settings_channel_information">Kanalinformationen</string>
+    <string name="dlg_rds_settings_traffic_announcement">Verkehrsmeldung</string>
+    <string name="dlg_save_recording_storage_warning">Nicht genügend Speicher! Möchten Sie die aktuelle Aufzeichnung speichern?</string>
+    <string name="dlg_save_recording_title">Aufzeichnungsdatei speichern</string>
+    <string name="edit_recording_name_hint">Hier Dateinamen eingeben</string>
+    <string name="favorite_manager">Kanäle</string>
+    <string name="optmenu_exit">Ausgang</string>
+    <string name="optmenu_rds_settings">RDS-Einstellungen</string>
+    <string name="optmenu_record">UKW aufnehmen</string>
+    <string name="optmenu_search">Suche</string>
+    <string name="toast_already_favorite">Dieser Sender befindet sich bereits in der Favoritenliste.</string>
+    <string name="toast_cannot_search">Suche nach verfügbarem Kanal nicht möglich.</string>
+    <string name="toast_channel_added">Der Kanal wird zur Favoritenliste hinzugefügt.</string>
+    <string name="toast_channel_deleted">Der Kanal wird aus der Favoritenliste gelöscht.</string>
+    <string name="toast_channel_searched">Entdeckte verfügbare Kanäle:</string>
+    <string name="toast_favorite_full">Der Sender kann nicht zur Favoritenliste hinzugefügt werden, da die Liste voll ist.</string>
+    <string name="toast_player_internal_error">Im Player ist ein interner Fehler aufgetreten!</string>
+    <string name="toast_powerup_before_record_warning">Bitte zuerst UKW einschalten!</string>
+    <string name="toast_recorder_internal_error">Im Recorder ist ein interner Fehler aufgetreten!</string>
+    <string name="toast_recording_lost_warning">Ihre Aufzeichnung geht beim Entfernen der SD-Karte verloren!</string>
+    <string name="toast_save_success">Erfolgreich gespeichert!</string>
+    <string name="toast_sdcard_insufficient_space">Nicht genügend Platz auf der SD-Karte!</string>
+    <string name="toast_sdcard_missing">Keine SD-Karte vorhanden!</string>
+    <string name="toast_start_recording">Aufzeichnung starten…</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trasmissione FM</string>
+    <string name="favorite_manager">Canali</string>
+    <string name="add_to_favorite">Aggiungi a preferiti</string>
+    <string name="optmenu_search">Ricerca</string>
+    <string name="optmenu_exit">Exit</string>
+    <string name="contmenu_title">Operazioni</string>
+    <string name="contmenu_item_edit">Modifica</string>
+    <string name="contmenu_item_delete">Elimina</string>
+    <string name="dlg_noantenna_text">Le cuffie sono usate come antenna della radio FM. Continuare senza le cuffie?</string>
+    <string name="dlg_noantenna_title">Collegare le cuffie</string>
+    <string name="btn_yes">Sì</string>
+    <string name="btn_no">No</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Annulla</string>
+    <string name="dlg_progress_title">Ricerca in corso...</string>
+    <string name="dlg_progress_text">Ricerca dei canali, attendere...</string>
+    <string name="dlg_addedit_station_name">Nome:</string>
+    <string name="dlg_addedit_station_freq">Frequenza:</string>
+    <string name="dlg_addedit_title_edit">Modifica canale</string>
+    <string name="default_station_name">Nuovo canale</string>
+    <string name="dlg_delete_confirm_title">Conferma Elimina canale</string>
+    <string name="dlg_delete_confirm_text">Si è certi di volere eliminare questo canale?</string>
+    <string name="toast_favorite_full">Impossibile aggiungere il canale all’elenco dei preferiti perché è pieno.</string>
+    <string name="toast_already_favorite">Questo canale è già nell’elenco dei preferiti.</string>
+    <string name="toast_channel_deleted">Il canale è stato eliminato dall\'elenco dei preferiti.</string>
+    <string name="toast_channel_added">Il canale è stato aggiunto all\'elenco dei preferiti.</string>
+    <string name="toast_channel_searched">Canali disponibili ricercati:</string>
+    <string name="toast_cannot_search">Impossibile ricercare i canali disponibili</string>
+    <string name="optmenu_rds_settings">Impostazioni RDS</string>
+    <string name="dlg_rds_settings_channel_information">Informazioni canale</string>
+    <string name="dlg_rds_settings_alternative_frequency">Frequenza alternativa</string>
+    <string name="dlg_rds_settings_traffic_announcement">Annuncio traffico</string>
+    
+        <!-- For FM recording -->
+    <string name="toast_recording_lost_warning">La registrazione andrà persa per la rimozione della scheda SD!</string>
+    <string name="toast_start_recording">Avvio registrazione…</string>
+    <string name="toast_sdcard_missing">Scheda SD assente!</string>
+    <string name="toast_sdcard_insufficient_space">Spazio su scheda SD insufficiente!</string>
+    <string name="toast_recorder_internal_error">Errore interno nel registratore!</string>
+    <string name="toast_player_internal_error">Errore interno nel lettore!</string>
+    <string name="toast_powerup_before_record_warning">Prima accendere FM!</string>
+    <string name="optmenu_record">Registra FM</string>
+    <string name="btn_save_recording">Salva</string>
+    <string name="btn_overwrite_recording">Sovrascrivi</string>
+    <string name="btn_discard_recording">Ignora</string>
+    <string name="edit_recording_name_hint">Digita qui nome file</string>
+    <string name="dlg_save_recording_title">Salva registrazione file</string>
+    <string name="dlg_save_recording_storage_warning">Memoria insufficiente! Salvare registrazione attuale?</string>
+    <string name="toast_save_success">Salvataggio riuscito!</string>
+    <string name="already_exists">Già presente</string>
+</resources>
